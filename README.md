@@ -15,7 +15,7 @@ models to novel scenarios? To facilitate this research, we present CloudGripper-
 ## Dataset
 [Example Dataset](https://cloudgripper.org/)
 
-[Full 1.4T dataset](replace)
+[Full 1.4T dataset](https://cloudgripper.eecs.kth.se:8443/dataset/cloudgripper-push-1k/)
 
 ## Installation
 ```bash
